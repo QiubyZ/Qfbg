@@ -1,5 +1,4 @@
 from os import system
-import getpass
 import requests
 import sys
 reload(sys)
